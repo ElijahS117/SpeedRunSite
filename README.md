@@ -1,2 +1,3 @@
 # SpeedRunSite
-Simply used for having a offsite copy of the code 
+Used To Host The site
+http://elijahs117.github.io/SpeedRunSite
